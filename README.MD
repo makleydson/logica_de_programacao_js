@@ -6,5 +6,9 @@
 
 - Estruturas Condicionais
     - If e Else
+- Controle de Decisões
     - Switch Case
+- Loops
     - While
+    - Do While
+    - For
