@@ -12,3 +12,4 @@
     - While
     - Do While
     - For
+- Funções
